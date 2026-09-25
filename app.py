@@ -184,7 +184,3 @@ if page == "Data":
                        file_name="german_credit_filtered.csv",
                        mime="text/csv")
 
-   streamlit
-   pandas
-   scikit-learn
-   plotly
